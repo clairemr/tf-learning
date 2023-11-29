@@ -26,5 +26,8 @@ Better options:
 - AWS CLI
 - Vault provider
 
+### Dynamic imports
+Don't use too many, makes code complicated
+
 #### vscode plugins to potentially remove
 - terraform autocomplete
